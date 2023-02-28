@@ -1,0 +1,19 @@
+6)Un  array es una variable que almacena varios datos
+cada uno de ellos ubicado por la posición que ocupa en el array.
+los objetos son similares a una lista cuyo prototipo proporciona métodos para efectuar operaciones 
+de recorrido y un objeto es un entidad independiente con propiedades y tipos. Compáralo con una taza, por ejemplo. 
+Una taza es un objeto con propiedades. 
+Una taza tiene un color, un diseño, un peso, un material del que está hecha, etcde mutación.
+ Tanto la longitud como el tipo de los elementos de un array son variables
+
+7)
+propiedad .length=
+Propiedad que devuelve el número de elementos del array.
+unshift(x)
+Añade x al principio del array como nuevo (o nuevos) elementos.
+splice 
+Modifica el array añadiendo los elementos it1, it2, …, itN, que son insertados en la posición ind desplazando a los existentes
+pop()
+Elimina el último elemento del array y lo devuelve.
+shift()
+Elimina el primer elemento del array y lo devuelve.
